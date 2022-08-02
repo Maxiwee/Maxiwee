@@ -2,8 +2,8 @@
 
 <h3 align="center">¡BIENVENIDO A MI PERFIL! 😃</h3>
 
-<b>Soy Argentino, tengo 25 años recien graduado del bootcamp Soy Henry, actualmente estoy enfocado en el desarollo web full stack, esperando mi oportunidad laboral para demostrar mis habilidades adquiridas y poder seguir ampliando mis conocimientos en este maravilloso mundo de la programación.<br>
-Me concidero una persona con pensamiento lógico, autodidacta y dedicado. Me desenvuelvo muy bien trabajando en equipo ya que me gusta mucho cooperar, la mejor manera de aprender y compartir el conocimiento adquirido.</b> 
+<b>Soy Argentino, tengo 25 años recién graduado del bootcamp Soy Henry, actualmente estoy enfocado en el desarrolló web full stack, esperando mi oportunidad laboral para demostrar mis habilidades adquiridas y poder seguir ampliando mis conocimientos en este maravilloso mundo de la programación.<br>
+Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me desenvuelvo muy bien trabajando en equipo, ya que me gusta mucho cooperar y es la mejor manera de aprender y compartir el conocimiento adquirido.</b> 
 
 
 
@@ -24,7 +24,7 @@ Me concidero una persona con pensamiento lógico, autodidacta y dedicado. Me des
 
 📫 ¿Quieres contactarme?
 
-Puedes usar mi direccion de correo electronico maxi.jrocha97@gmail.com o enviarme un mensaje en mi perfil de <a href="https://www.linkedin.com/in/maxi-rocha/">linkedin</a>
+Puedes usar mi dirección de correo electrónico maxi.jrocha97@gmail.com o enviarme un mensaje en mi perfil de <a href="https://www.linkedin.com/in/maxi-rocha/">linkedin</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxiwee&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
