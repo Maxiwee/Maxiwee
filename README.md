@@ -10,7 +10,6 @@ const maxi = {
   ID: [VSCode]
 }
 ```
-<p>Actualmente me encuentro aprendiendo Python</p>
 
 📫 ¿Quieres contactarme?
 
